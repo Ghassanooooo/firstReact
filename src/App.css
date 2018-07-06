@@ -1,9 +1,22 @@
 .App {
   text-align: center;
-  color: red;
+ 
 }
 
 .p{
   color: blue
 }
 
+.bold{
+  font-weight: bolder;
+  font-size: 25px
+}
+
+.red{
+  color: red
+}
+
+.hidden{
+  display: none
+
+}
